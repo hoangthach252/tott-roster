@@ -17,3 +17,4 @@ See https://help.github.com/articles/using-pull-requests for help.
 * parente
 * Coalman
 * Thach
+* new user
